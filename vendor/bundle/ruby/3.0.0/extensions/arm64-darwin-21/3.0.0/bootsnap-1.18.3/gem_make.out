@@ -1,0 +1,19 @@
+current directory: /Users/dai_tachimoto/workspace/practice/rails-react-matching-app1/backend/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.18.3/ext/bootsnap
+/Users/dai_tachimoto/.rbenv/versions/3.0.6/bin/ruby -I /Users/dai_tachimoto/.rbenv/versions/3.0.6/lib/ruby/3.0.0 -r ./siteconf20240214-75339-qsebjn.rb extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/dai_tachimoto/workspace/practice/rails-react-matching-app1/backend/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/dai_tachimoto/workspace/practice/rails-react-matching-app1/backend/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/dai_tachimoto/workspace/practice/rails-react-matching-app1/backend/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20240214-75339-vvej40/bootsnap
